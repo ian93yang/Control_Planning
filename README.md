@@ -79,3 +79,20 @@ directed map 有向图
 
 State sapce graph 
 栅格图/概率路图
+
+
+Breadth First Search (BFS) vs. Depth First Search (DFS)
+BFS uses "first in first out"  广度优先搜索，维护队列
+DFS uses "last in first out"   深度优先搜索，维护堆栈
+
+
+
+
+
+
+
+
+
+
+
+
