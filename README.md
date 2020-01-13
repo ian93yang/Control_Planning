@@ -53,15 +53,29 @@ http://www.robots.ox.ac.uk/~victor/infinitam/
 PCL
 http://pointclouds.org/
 
-## TSDF map (Truncated Signed Distance Functions)
+## TSDF map (Truncated Signed Distance Functions) 截断距离场
 OpenChisel
 http://github.com/personalalrobotics/OpenChisel
 
+## ESDF map (Euclidean Signed Distance Functions) 关心所有的视野范围内全部距离场，轨迹优化
+VoxBiox
+http://github.com/ethz-asl/voxblox
 
+FIESTA
+http://github.com/HKUST-Aerial-Robotics/FIESTA
 
-
+TTR's Local Map
+http://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan
+全局规划 局部规划 
  
+Voronoi Diagram Map  稀疏骨架/拓扑地图
+http://github.com/ethz-asl/mav_voxblox_planning
 
+## Search-based Method
+Graphs have nodes and edges
+undirected map 无向图
+weighted map 有权重图
+directed map 有向图
 
-
-
+State sapce graph 
+栅格图/概率路图
